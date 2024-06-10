@@ -1,4 +1,4 @@
-# 8086-Zadaca2
+# 8086-exercise2
 
 For the microprocessor system implemented in the previous task, write a routine that will detect when it is
 pressed key on the matrix keyboard, then decodes the value corresponding to that key
@@ -6,15 +6,15 @@ pressed key on the matrix keyboard, then decodes the value corresponding to that
 the display should show the character H. The output port address of the seven-segment display is 90h,
 keyboard output port is 80h and keyboard input port is 81h.
 
-![Screenshot (1)](https://github.com/tamaraatanasova/8086-Zadaca2/blob/main/2.1.png)
-![Screenshot (2)](https://github.com/tamaraatanasova/8086-Zadaca2/blob/main/2.2.png)
-![Screenshot (3)](https://github.com/tamaraatanasova/8086-Zadaca2/blob/main/2.3.png)
-![Screenshot (4)](https://github.com/tamaraatanasova/8086-Zadaca2/blob/main/2.4.png)
+![Screenshot (1)](https://github.com/ilievatijana/8086-exercise2/blob/main/2.1.png)
+![Screenshot (2)](https://github.com/ilievatijana/8086-exercise2/blob/main/2.2.png)
+![Screenshot (3)](https://github.com/ilievatijana/8086-exercise2/blob/main/2.3.png)
+![Screenshot (4)](https://github.com/ilievatijana/8086-exercise2/blob/main/2.4.png)
 
-![Screenshot (5)](https://github.com/tamaraatanasova/8086-Zadaca2/blob/main/8086za2.png)
+![Screenshot (5)](https://github.com/ilievatijana/8086-exercise2/blob/main/8086za2.png)
 
 
-[Tamara Atanasova ](https://github.com/tamaraatanasova)
+[Tijana Ilieva ](https://github.com/ilievatijana)
 
 **Subject**
 
